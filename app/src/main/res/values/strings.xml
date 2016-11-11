@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoothSpeaker</string>
+    <string name="scan">Scan</string>
+    <string name="available_devices">Available devices</string>
+    <string name="currentlyConnected">Currently connected devices</string>
+    <string name="tempo">Set the tempo</string>
+</resources>
